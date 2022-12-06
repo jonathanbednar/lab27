@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: jpb5077/lab27:1.0.0
+        image: jpb5077/lab28:1.0.0
         imagePullPolicy: Always 
 ---
 apiVersion: v1 
